@@ -1,5 +1,3 @@
-Git, so wonderful
-Its beautiful branch structure
-five, seven, five, yay!
+A WILD HIKU APPEARED
 
-I'm not sure what I'm doing
+[Gotta catch em all](pokemon-page/pokemon-test.md)
